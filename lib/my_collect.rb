@@ -1,5 +1,6 @@
 def my_collect(project)
   x = 0
+  collection = []
   
 
 
